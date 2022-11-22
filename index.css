@@ -1,0 +1,19 @@
+* {
+    padding: 1rem;
+    margin: auto;
+    text-align: center;
+}
+
+#stien {
+    width: 360px;
+    height: 360px;
+    border-radius: 3rem;
+}
+
+body {
+    background: gray;
+}
+
+li {
+    list-style: none;
+}
